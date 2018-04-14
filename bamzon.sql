@@ -18,8 +18,9 @@ INSERT INTO products (product_name, department_name, price, stock_quantity) valu
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Suger', 'Food', 0.89, 215);
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Heart neckless', 'Accessories', 17.30, 23);
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Coffee', 'Food', 9.89, 467);
-INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Handbag in namy blue', 'Accessories', 65.99, 17);
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Handbag in navy blue', 'Accessories', 65.99, 17);
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Hand blender', 'Kitchen', 115.72, 11);
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Chocolate cake', 'Food', 14.65, 2);
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Gatorade', 'Food', 1.29, 77);
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Men leather belt', 'Accessories', 25.50 , 21);
+

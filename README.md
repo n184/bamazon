@@ -10,11 +10,6 @@ This app simulates an online store It can be used to track inventory.In the app 
 2. A customer will start the app through node.js
 	* The file name is bamazonCustomer.js.
 	* At the beginning, a view of all the products will be shown.
-
-![bamazon-insufficient](\\c$:Users\nhnc1\OneDrive\Pictures\Saved Pictures\bamazon-insufficient.GIF)
-
-
-
 	* Questions about the purchase will be prompt.
 	* The app will inform the customer if there is enough inventory for the purchase to go through, and if so, the total of his purchase. 
 
