@@ -27,14 +27,17 @@ This app simulates an online store It can be used to track inventory.In the app 
 	* Choosing "VIEW ALL PRODUCTS" will display all products.
 
 ![bamazon-view-all](https://github.com/n184/bamazon/blob/master/pic/bamazon-man-all.GIF)
+
 	* Choosing "VIEW LOW INVENTORY" will display all products with an inventory that is smaller than five.
 
 ![bamazon-view-all](https://github.com/n184/bamazon/blob/master/pic/bamazon-man-low.GIF)
+
 	* Choosing "ADD TO INVENTORY" will prompt additional questions that will result with an increase inventory to a specific product.
 
 ![bamazon-view-all](https://github.com/n184/bamazon/blob/master/pic/bamazon-man-inv.GIF)
+
 	* Choosing "ADD NEW PORDUCT" will prompt additional questions that will result with a new product added to the exisiting inventory.
-	
+
 ![bamazon-view-all](https://github.com/n184/bamazon/blob/master/pic/bamazon-man-new.GIF)
 
 ### Development Personal
