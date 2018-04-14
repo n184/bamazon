@@ -13,7 +13,7 @@ This app simulates an online store It can be used to track inventory.In the app 
 	* Questions about the purchase will be prompt.
 	* The app will inform the customer if there is enough inventory for the purchase to go through, and if so, the total of his purchase. 
 
-![bamazon-insufficient](pic\bamazon-insufficient.GIF)
+![bamazon-insufficient](https://github.com/n184/bamazon/blob/master/pic/bamazon-insufficient.GIF)
 
 ### Manager User
 
